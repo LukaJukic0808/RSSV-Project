@@ -27,7 +27,6 @@ void loop() {
         shouldBlink = 1;
       }
     } else {
-      shouldBlink = 0;
       int previousIndex = 0;
       int nextIndex = 0;
 
